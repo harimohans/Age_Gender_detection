@@ -85,5 +85,14 @@ GUI Code Snippet
 python
 ![image](https://github.com/user-attachments/assets/58cb0787-cbcb-4944-9ca7-40974ea1b0e3)
 
+Sample output:
+![image](https://github.com/user-attachments/assets/7ba60638-f244-4f5a-9d56-f2b2209c9fcd)
+Uploading Image
+![image](https://github.com/user-attachments/assets/328cd36f-f733-45c7-af20-3ea72e5b178b)
+
+Detecting Image
+![image](https://github.com/user-attachments/assets/5ea67d28-2004-40ae-a1aa-47889666ae74)
+
+
 
     
